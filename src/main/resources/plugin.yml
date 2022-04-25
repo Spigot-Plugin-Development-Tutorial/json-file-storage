@@ -1,0 +1,4 @@
+name: JSONFileStorage
+version: ${project.version}
+main: me.kodysimpson.jsonfilestorage.JSONFileStorage
+api-version: 1.16
